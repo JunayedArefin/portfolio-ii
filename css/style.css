@@ -21,6 +21,7 @@ h1{
     background-image: url('../images/developer.png');
     background-repeat: no-repeat;
     background-position: left;
+    background-position-x: 50px;
     background-size: 75px;
 }
 nav {
